@@ -44,6 +44,8 @@
         <EditText
             android:id="@+id/edtComment"
             android:layout_width="0dp"
+            android:paddingStart="10dp"
+            android:paddingEnd="10dp"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
             android:background="@drawable/edt_bg"
